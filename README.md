@@ -2,10 +2,10 @@
  <h1 align="center">  I’m a 3D Modeler,Website Devlopper <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/243078655-47eb2734-addb-46da-b4dd-5e1616cd3853.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240823%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240823T082613Z&X-Amz-Expires=300&X-Amz-Signature=9e1b4cb9ab34c330fa1b41127bf632ff7197dd469daf3d5cdc00bb89390e7d88&X-Amz-SignedHeaders=host&actor_id=178637256&key_id=0&repo_id=588181932" height="40px" width="40px"> </h1>
 <p align="center">
  <img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" height="150px" width="200px  > 
-  <a href="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?%22%20height=%22150px%22%20width=%22200px%22%3E%20%3C/p%3E" >
+ 
  
 </p>
-<img src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?%22%20height=%22150px%22%20width=%22200px%22%3E%20%3C/p%3E">
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?%22%20height=%22150px%22%20width=%22200px%22%3E%20%3C/p%3E"></p>
 <h3 align="center">A passionate Devloper from Nepal 🇳🇵</h3>
 <p align= "middle"> <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif")
                       > </p>
